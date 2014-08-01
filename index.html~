@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Squares</title>
+	<script src="jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="jscript.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+
+<body>
+	<div id="reset">
+		<form>
+			<button onclick="clear()">Reset Grid</button>
+			<button onclick="choose()">Choose Grid Size</button>
+		</form>
+	</div>
+			
+	<div id="container"></div>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+html {
+	width:100%;
+}
+
+#reset {
+	margin:10px auto;
+	width:200px;
+}
+
+#reset button {
+	margin:auto;
+}
+
+#container {
+	margin:30px auto;
+	height:800px;
+	width:800px;
+}
+
+.small {
+	display:inline-block;
+	margin-top:-4px;
+	background-color:#3366FF;
+	height:50px;
+	width:50px;
+}
+
+.newColor {
+	background-color:#D63333;
+}
+
+.newColor2 {
+	background-color:#33CC33;
+}
