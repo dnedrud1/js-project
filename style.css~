@@ -4,11 +4,7 @@ html {
 
 #reset {
 	margin:10px auto;
-	width:200px;
-}
-
-#reset button {
-	margin:auto;
+	width:300px;
 }
 
 #container {
@@ -18,17 +14,27 @@ html {
 }
 
 .small {
-	display:inline-block;
-	margin-top:-4px;
+	float:left;
+	margin:1px;
 	background-color:#3366FF;
-	height:50px;
-	width:50px;
+}
+
+.small2 {
+	float:left;
+	margin:1px;
+	background-color:#000000;
+}
+
+.small3 {
+	float:left;
+	margin:1px;
+	background-color:#000000;
 }
 
 .newColor {
 	background-color:#D63333;
 }
 
-.newColor2 {
-	background-color:#33CC33;
+.oldColor {
+	background-color:#3366FF;
 }
