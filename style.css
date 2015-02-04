@@ -1,40 +1,40 @@
 html {
-	width:100%;
+  width:100%;
 }
 
 #reset {
-	margin:10px auto;
-	width:350px;
+  margin:10px auto;
+  width:350px;
 }
 
 #container {
-	margin:30px auto;
-	height:800px;
-	width:800px;
+  margin:30px auto;
+  height:800px;
+  width:800px;
 }
 
 .small {
-	float:left;
-	margin:1px;
-	background-color:#3366FF;
+  float:left;
+  margin:1px;
+  background-color:#3366FF;
 }
 
 .small2 {
-	float:left;
-	margin:1px;
-	background-color:#000000;
+  float:left;
+  margin:1px;
+  background-color:#000000;
 }
 
 .small3 {
-	float:left;
-	margin:1px;
-	background-color:#000000;
+  float:left;
+  margin:1px;
+  background-color:#000000;
 }
 
 .newColor {
-	background-color:#D63333;
+  background-color:#D63333;
 }
 
 .oldColor {
-	background-color:#3366FF;
+  background-color:#3366FF;
 }

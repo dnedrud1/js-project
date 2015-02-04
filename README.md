@@ -1,4 +1,4 @@
 js-project
 ==========
 
-boogaboo
+A Javascript program that creates interactive grids.
